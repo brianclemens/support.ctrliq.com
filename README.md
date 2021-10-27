@@ -1,0 +1,2 @@
+# support.ctrliq.com
+Redirect
